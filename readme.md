@@ -1,5 +1,5 @@
 # AI Employee Interview Helper
-An AI-powered logic engine designed to help students/employees by generating interview questions and analyzing responses. This project uses the **OpenRouter API** to access a variety of LLMs (like GPT-4, Qwen, or Llama) through a single interface.
+An AI-powered logic engine designed to help students/employees by generating interview questions and analyzing responses by providing interview pdf documents. This project uses the **OpenRouter API** to access a variety of LLMs (like GPT-4, Qwen, or Llama) through a single interface.
 
 ## 🛠️ Setup & Installation
 
